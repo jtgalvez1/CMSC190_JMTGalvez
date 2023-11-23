@@ -1,0 +1,6 @@
+[submodule "code/code/srg-tr-searcher"]
+	path = code/code/srg-tr-searcher
+	url = https://github.com/jtgalvez1/srg-tr-searcher
+[submodule "code/srg-tr-searcher"]
+	path = code/srg-tr-searcher
+	url = https://github.com/jtgalvez1/srg-tr-searcher
